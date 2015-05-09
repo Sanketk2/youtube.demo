@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "hello, world \n";
+    char* name= "sanket";
+    cout << "hello, " << name << "\n";
     return 0;
 }
